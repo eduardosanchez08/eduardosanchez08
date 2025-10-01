@@ -1,5 +1,5 @@
 ## Olá! eu sou o Eduardo Henrique 
- - 🚀- Desenvolvedor em java.
+ - 🚀 Desenvolvedor em java.
  - | Explorando lógica, código limpo e boas práticas
  - 💻- Estudante de Java | Construindo projetos e evoluindo no mundo da programação
  - 🌱- Iniciante em Java | Aprendendo passo a passo e registrando minha jornada
