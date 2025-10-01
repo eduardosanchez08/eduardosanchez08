@@ -4,8 +4,8 @@
  - 💻- Estudante de Java | Construindo projetos e evoluindo no mundo da programação
  - 🌱- Iniciante em Java | Aprendendo passo a passo e registrando minha jornada
  - 🔧- Aprendiz de Programação | Projetos e exercícios em Java 
- - 🌍 Moro em Sumaré - SP *
- - ✉️ Você pode entrar em contato comigo em [eduardodosanjosprimavera@gmail.com](mailto:eduardodosanjosprimavera@gmail.com) * 👥 Procuro colaborar em Novos projetos
+ - ✉️ Você pode entrar em contato comigo em [eduardodosanjosprimavera@gmail.com](mailto:eduardodosanjosprimavera@gmail.com) *
+ -  👥 Procuro colaborar em Novos projetos
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
