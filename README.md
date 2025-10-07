@@ -1,7 +1,9 @@
 <br clear="both">
 
-<img src="URL_DO_SEU_GIF.gif" alt="👋 Olá! Eu sou o Eduardo</h1>">
-###
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FFD700&center=true&vCenter=true&lines=👋+Olá!+Eu+sou+o+Eduardo;Desenvolvedor+Java;Bem-vindo+ao+meu+perfil!" />
+</h1>
+
 
 <p align="left">Abaixo um pouco sobre minha carreira:</p>
 
