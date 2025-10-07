@@ -58,7 +58,10 @@
 
 ###
 
-![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+### Meus commits recentes
+
+![GitHub Contributions](https://ghchart.rshah.org/<SEU_USUARIO>)
+
 
 
 
