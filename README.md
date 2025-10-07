@@ -58,7 +58,8 @@
 
 ###
 
-![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg?color_snake=yellow&color_dots=#39FF14)
+![Eduardo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=github-dark&hide_border=true&area=true)
+
 
 
 
