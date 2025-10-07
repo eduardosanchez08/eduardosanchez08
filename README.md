@@ -60,7 +60,8 @@
 
 ### Meus commits recentes
 
-![GitHub Contributions](https://ghchart.rshah.org/<SEU_USUARIO>)
+![GitHub Contributions](https://ghchart.rshah.org/<eduardosanchez08>)
+
 
 
 
