@@ -58,7 +58,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/snake.svg" alt="Snake animation" />
+<img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" width="200" alt="Pac-Man">
 
 ###
 
