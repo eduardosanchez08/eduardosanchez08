@@ -1,30 +1,80 @@
-## Olá! eu sou o Eduardo Henrique 
- - 🚀 Desenvolvedor em java.
- - | Explorando lógica, código limpo e boas práticas
- - 💻- Estudante de Java | Construindo projetos e evoluindo no mundo da programação
- - 🌱- Iniciante em Java | Aprendendo passo a passo e registrando minha jornada
- - 🔧- Aprendiz de Programação | Projetos e exercícios em Java 
- - ✉️ Você pode entrar em contato comigo em [eduardodosanjosprimavera@gmail.com](mailto:eduardodosanjosprimavera@gmail.com) *
- -  👥 Procuro colaborar em Novos projetos
+<br clear="both">
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
-</p>
+<h1 align="center">👋 Olá! Eu sou o Eduardo</h1>
 
-### Redes sociais
+###
 
-<p align="left"> </p> <a href="https://www.github.com/eduardosanchez08" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/eduardo-henrique-sanchez-79832b387/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
-<a href="https://www.github.com/eduardosanchez08" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/eduardosanchez08?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="left">Abaixo um pouco sobre minha carreira:</p>
 
+###
 
-<b>Minhas estatísticas do GitHub</b>
+<p align="left">🚀 Desenvolvedor em java.<br>| Explorando lógica, código limpo e boas práticas<br>💻- Estudante de Java | Construindo projetos e evoluindo no mundo da programação<br>🌱- Iniciante em Java | Aprendendo passo a passo e registrando minha jornada<br>🔧- Aprendiz de Programação | Projetos e exercícios em Java<br>✉️ Você pode entrar em contato comigo em eduardodosanjosprimavera@gmail.com *<br>👥 Procure colaborar em Novos projetos</p>
 
-<a href="http://www.github.com/eduardosanchez08"><img src="https://github-readme-stats.vercel.app/api?username=eduardosanchez08&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de eduardosanchez08" /></a>
+###
 
-<a href="http://www.github.com/eduardosanchez08"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardosanchez08&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<h2 align="left">codifico em :</h2>
 
-<a href="https://github.com/eduardosanchez08" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosanchez08&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Principais idiomas" /></a>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+</div>
 
+###
 
-<div width="100%" align="center"> <a href="https://github.com/eduardosanchez08/proj-1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardosanchez08&repo=proj-1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardosanchez08&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=eduardosanchez08&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=eduardosanchez08&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardosanchez08&radius=16&theme=one-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardosanchez08&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h6 align="left">Contatos:</h6>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/eduardo-henrique-sanchez-79832b387/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_real_sanchez_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="eduardodosanjosprimavera@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eduardosanchez08.eduardosanchez08&left_color=black&right_color=blue&left_text=visitantes"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=114&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
