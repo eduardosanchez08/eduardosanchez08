@@ -58,7 +58,8 @@
 
 ###
 
-![3D Snake Grid](https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
