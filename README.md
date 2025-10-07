@@ -58,7 +58,8 @@
 
 ###
 
-<img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" width="200" alt="Pac-Man">
+![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ###
