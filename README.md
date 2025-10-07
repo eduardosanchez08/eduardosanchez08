@@ -1,8 +1,9 @@
 <br clear="both">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FFD700&center=true&vCenter=true&lines=👋+Olá!+Eu+sou+o+Eduardo;Desenvolvedor+Java;Bem-vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=000000&center=true&vCenter=true&lines=👋+Olá!+Eu+sou+o+Eduardo;Desenvolvedor+Java;Bem-vindo+ao+meu+perfil!" />
 </h1>
+
 
 
 <p align="left">Abaixo um pouco sobre minha carreira:</p>
