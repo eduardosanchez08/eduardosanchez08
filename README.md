@@ -58,7 +58,8 @@
 
 ###
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![3D Snake Grid](https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg)
+
 
 
 
