@@ -1,14 +1,13 @@
 <br clear="both">
 
-<h1 align="center">👋 Olá! Eu sou o Eduardo</h1>
-
+<img src="URL_DO_SEU_GIF.gif" alt="Texto animado em GIF">
 ###
 
 <p align="left">Abaixo um pouco sobre minha carreira:</p>
 
 ###
 
-<p align="left">🚀 Desenvolvedor em java.<br>| Explorando lógica, código limpo e boas práticas<br>💻- Estudante de Java | Construindo projetos e evoluindo no mundo da programação<br>🌱- Iniciante em Java | Aprendendo passo a passo e registrando minha jornada<br>🔧- Aprendiz de Programação | Projetos e exercícios em Java<br>✉️ Você pode entrar em contato comigo em eduardodosanjosprimavera@gmail.com *<br>👥 Procure colaborar em Novos projetos</p>
+<p align="left">🚀 Desenvolvedor em java.<br>| Explorando lógica, código limpo e boas práticas<br>💻- Estudante de Java | Construindo projetos e evoluindo no mundo da programação<br>🌱- Iniciante em Java | Aprendendo passo a passo e registrando minha jornada<br>🔧- Aprendiz de Programação | Projetos e exercícios em Java<br>✉️ Você pode entrar em contato comigo em: eduardodosanjosprimavera@gmail.com *<br>👥 Procure colaborar em Novos projetos</p>
 
 ###
 
