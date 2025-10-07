@@ -58,7 +58,8 @@
 
 ###
 
-![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg?color_snake=yellow&color_dots=#39FF14)
+
 
 
 
