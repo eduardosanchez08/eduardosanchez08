@@ -58,9 +58,7 @@
 
 ###
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=FFD700&center=true&vCenter=true&lines=👾+PAC-MAN+ESTÁ+VINDO!;🍒+Pega+as+frutinhas!;💥+Game+Over!" />
-</h1>
+<img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" width="200" alt="Pac-Man">
 
 
 ###
