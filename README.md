@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img src="URL_DO_SEU_GIF.gif" alt="Texto animado em GIF">
+<img src="URL_DO_SEU_GIF.gif" alt="👋 Olá! Eu sou o Eduardo</h1>">
 ###
 
 <p align="left">Abaixo um pouco sobre minha carreira:</p>
