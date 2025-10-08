@@ -61,11 +61,6 @@
   </a>
 </div>
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=114&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
 
 ###
 <picture>
@@ -78,4 +73,9 @@
 ###
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eduardosanchez08.eduardosanchez08&left_color=black&right_color=blue&left_text=visitantes"  />
+</div>
+
+###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=114&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
