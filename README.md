@@ -10,14 +10,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=808080&center=true&vCenter=true&lines=👋+Olá!+Eu+sou+o+Eduardo;Desenvolvedor+Java;Bem-vindo+ao+meu+perfil!" />
 </h1>
 
-
-
+###
 
 <p align="left">Abaixo um pouco sobre minha carreira:</p>
 
 ###
 
-<p align="left">🚀 Desenvolvedor em java.<br>| Explorando lógica, código limpo e boas práticas<br>💻- Estudante de Java | Construindo projetos e evoluindo no mundo da programação<br>🌱- Iniciante em Java | Aprendendo passo a passo e registrando minha jornada<br>🔧- Aprendiz de Programação | Projetos e exercícios em Java<br>✉️ Você pode entrar em contato comigo em: eduardodosanjosprimavera@gmail.com *<br>👥 Procure colaborar em Novos projetos</p>
+<p align="left">🚀 Desenvolvedor em java.<br>| Explorando lógica, código limpo e boas práticas<br>💻- Estudante de Java | Construindo projetos e evoluindo no mundo da programação<br>🌱- Iniciante em Java | Aprendendo passo a passo e registrando minha jornada<br>🔧- Aprendiz de Programação | Projetos e exercícios em Java<br>✉️ Você pode entrar em contato comigo em eduardodosanjosprimavera@gmail.com *<br>👥 Procure colaborar em Novos projetos</p>
 
 ###
 
@@ -34,11 +33,11 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardosanchez08&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=eduardosanchez08&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=eduardosanchez08&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=eduardosanchez08&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardosanchez08&radius=16&theme=one-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardosanchez08&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardosanchez08&radius=16&theme=one-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
