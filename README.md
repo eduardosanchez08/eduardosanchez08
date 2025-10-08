@@ -60,7 +60,7 @@
 
 ### Meus commits recentes
 
- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OtavioValeDev/OtavioValeDev/output/pacman-contribution-graph.svg">
+ <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OtavioValeDev/eduardosanchez08/output/pacman-contribution-graph.svg">
 
 
 
