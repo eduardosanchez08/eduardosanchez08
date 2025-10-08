@@ -60,7 +60,7 @@
 
 ### Meus commits recentes
 
-![GitHub Contributions](https://ghchart.rshah.org/000000/eduardosanchez08)
+ <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OtavioValeDev/OtavioValeDev/output/pacman-contribution-graph.svg">
 
 
 
