@@ -77,7 +77,7 @@
 
 ###
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OtavioValeDev/OtavioValeDev/output/cobrinha-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OtavioValeDev/OtavioValeDev/output/cobrinha.svg">
-  <img alt="Cobrinha das contribuições" src="https://raw.githubusercontent.com/OtavioValeDev/OtavioValeDev/output/cobrinha.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha.svg">
+  <img alt="Cobrinha das contribuições" src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha.svg">
 </picture>
