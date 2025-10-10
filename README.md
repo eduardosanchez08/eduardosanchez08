@@ -17,7 +17,7 @@
 ###
 
 <p align="left">🚀 Desenvolvedor em java.<br>| Explorando lógica, código limpo e boas práticas<br>💻- Estudante de Java | Construindo projetos e evoluindo no mundo da programação<br>🌱- Iniciante em Java | Aprendendo passo a passo e registrando minha jornada<br>🔧- Aprendiz de Programação | Projetos e exercícios em Java<br>✉️ Você pode entrar em contato comigo em eduardodosanjosprimavera@gmail.com
-###
+
 
 <h2 align="left">codifico em :</h2>
 
