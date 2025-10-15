@@ -71,10 +71,11 @@
 
 ###
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha.svg">
+  <img alt="Cobrinha das contribuições" src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha.svg">
 </picture>
+<br clear="both">
 
 ###
 <div align="center">
