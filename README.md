@@ -71,9 +71,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eduardosanchez08.eduardosanchez08&left_color=black&right_color=blue&left_text=visitantes"  />
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eduardosanchez08.eduardosanchez08&"  />
+</div>
 
 ---
 
