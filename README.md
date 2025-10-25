@@ -1,4 +1,4 @@
-<div>
+'<div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=114&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
@@ -63,16 +63,16 @@
   <a href="mailto:eduardodosanjosprimavera@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
 
 ### 🐍 Minhas contribuições no GitHub
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/github-contribution-grid-snake.svg">
-  <img alt="Cobrinha das contribuições" src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/github-contribution-grid-snake.svg">
-</picture>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
 
 ###
 
