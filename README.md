@@ -64,12 +64,10 @@
 ### 🐍 Minhas contribuições no GitHub
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha.svg">
+  <img alt="Cobrinha das contribuições" src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha.svg">
+</picture>
 ---
 
 <p align="center">
