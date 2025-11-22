@@ -10,7 +10,7 @@
 
 ---
 
-### 🧩 Sobre mim
+###  👨🏼‍💻 Sobre mim
 <p align="left">
 🚀 Desenvolvedor em Java.<br>
 💻 Explorando lógica, código limpo e boas práticas.<br>
