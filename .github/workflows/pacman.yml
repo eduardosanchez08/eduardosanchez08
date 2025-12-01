@@ -1,0 +1,33 @@
+name: Gerar Pac-Man
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda 1x por dia
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Gerar animação Pac-Man
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar Pac-Man
+        uses: Platane/snk@v3
+        with:
+          github_user_name: eduardosanchez08
+          mode: "pacman"            # ativa o Pac-Man
+          color_snake: "#000000"    # pac-man preto
+          outputs: |
+            dist/pacman.svg
+            dist/pacman-dark.svg
+
+      - name: Publicar pacman na branch output
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
