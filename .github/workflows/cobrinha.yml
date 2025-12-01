@@ -1,4 +1,6 @@
 
+name: Gerar Cobrinha
+
 on:
   schedule:
     - cron: "0 0 * * *" # executa uma vez por dia
@@ -11,21 +13,21 @@ jobs:
 
     steps:
       - name: Checkout do repositório
-        uses: actions/checkout@v3
+      uses: actions/checkout@v3
 
-      - name: Gerar animação da cobrinha
+      - name: Gerar animação da cobrinha (cor preta)
         uses: Platane/snk@v3
         with:
           github_user_name: eduardosanchez08
+          snake_color: "#000000"
           outputs: |
             dist/cobrinha.svg
             dist/cobrinha-dark.svg
 
-      - name: Publicar animação na branch "output"
+      - name: Publicar animação na branch output
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}         
