@@ -21,41 +21,17 @@
 
 ---
 
-# ⭐ Projetos em Destaque
-<div align="center">
-
-<!-- CARD 1 -->
-<a href="https://github.com/eduardosanchez08" target="_blank">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardosanchez08&repo=Projeto1&theme=tokyonight&border_radius=15" />
-</a>
-
-<!-- CARD 2 -->
-<a href="https://github.com/eduardosanchez08" target="_blank">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardosanchez08&repo=Projeto2&theme=tokyonight&border_radius=15" />
-</a>
-
-<!-- CARD 3 -->
-<a href="https://github.com/eduardosanchez08" target="_blank">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardosanchez08&repo=Projeto3&theme=tokyonight&border_radius=15" />
-</a>
-
-</div>
-
-> 🔧 **Quer que eu personalize com seus projetos reais? Me diga os repositórios!**
-
----
-
 # 🧠 Tecnologias que estudo
 <div align="center">
 
 ## 🟦 **Java & Backend**
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,git" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git" />
 
 ## 🟩 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,js,react,bootstrap" />
 
 ## ⚙ Ferramentas
-<img src="https://skillicons.dev/icons?i=idea,vscode,github" />
+<img src="https://skillicons.dev/icons?i=idea,github" />
 
 </div>
 
