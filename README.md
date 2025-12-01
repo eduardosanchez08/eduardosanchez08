@@ -25,13 +25,13 @@
 <div align="center">
 
 ## 🟦 **Java & Backend**
-<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git," />
 
 ## 🟩 **Frontend**
 <img src="https://skillicons.dev/icons?i=html,js," />
 
 ## ⚙ Ferramentas
-<img src="https://skillicons.dev/icons?i=idea,github,postman" />
+<img src="https://skillicons.dev/icons?i=idea,github,postman,docker" />
 
 </div>
 
