@@ -1,81 +1,110 @@
 <!-- 🌊 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=114&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:0f0c29,50:302b63,100:24243e&fontColor=FFFFFF" />
 </p>
 
 <!-- 👋 INTRODUÇÃO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=808080&center=true&vCenter=true&lines=👋+Olá!+Eu+sou+o+Eduardo;Desenvolvedor+Java;+Bem-vindos+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Eduardo!;Desenvolvedor+Java.;Apaixonado+por+tecnologia.;Bem-vindo+ao+meu+perfil!+🚀" />
 </h1>
 
 ---
 
-###  👨🏼‍💻 Sobre mim
+## 👨🏼‍💻 Sobre mim
 <p align="left">
-🚀 Desenvolvedor em Java.<br>
-💻 Explorando lógica, código limpo e boas práticas.<br>
-🌱 Iniciante em Java | Aprendendo passo a passo e registrando minha jornada.<br>
-🔧 Aprendiz de Programação | Projetos e exercícios em Java.<br>
-✉️ Você pode entrar em contato comigo em: <b>eduardodosanjosprimavera@gmail.com</b>
+🚀 Desenvolvedor Java.<br>
+💡 Estudando diariamente lógica, OOP, boas práticas e arquitetura.<br>
+🌱 Iniciante com foco em evolução constante.<br>
+🔧 Criando projetos, desafios e registrando minha jornada na programação.<br>
+📩 Contato: <b>eduardodosanjosprimavera@gmail.com</b>
 </p>
 
 ---
 
-### 💻 Linguagens
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-</p>
+# ⭐ Projetos em Destaque
+<div align="center">
+
+<!-- CARD 1 -->
+<a href="https://github.com/eduardosanchez08" target="_blank">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardosanchez08&repo=Projeto1&theme=tokyonight&border_radius=15" />
+</a>
+
+<!-- CARD 2 -->
+<a href="https://github.com/eduardosanchez08" target="_blank">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardosanchez08&repo=Projeto2&theme=tokyonight&border_radius=15" />
+</a>
+
+<!-- CARD 3 -->
+<a href="https://github.com/eduardosanchez08" target="_blank">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardosanchez08&repo=Projeto3&theme=tokyonight&border_radius=15" />
+</a>
+
+</div>
+
+> 🔧 **Quer que eu personalize com seus projetos reais? Me diga os repositórios!**
 
 ---
 
-### ⚙️ Ferramentas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-</p>
+# 🧠 Tecnologias que estudo
+<div align="center">
+
+## 🟦 **Java & Backend**
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,git" />
+
+## 🟩 **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+
+## ⚙ Ferramentas
+<img src="https://skillicons.dev/icons?i=idea,vscode,github" />
+
+</div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+# 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardosanchez08&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true" height="150" alt="languages graph" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardosanchez08&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-br&hide_border=true" height="150" alt="stats graph" /><br>
-  <img src="https://streak-stats.demolab.com?user=eduardosanchez08&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph" /><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardosanchez08&radius=16&theme=one-dark&area=true&hide_border=true&hide_title=true" height="300" alt="activity graph" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosanchez08&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=eduardosanchez08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="160" src="https://streak-stats.demolab.com/?user=eduardosanchez08&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-### 🔗 Contatos
-<p align="left">
-  <a href="https://www.linkedin.com/in/eduardo-henrique-sanchez-79832b387/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/_real_sanchez_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="mailto:eduardodosanjosprimavera@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
+# 🔥 Gráfico de Contribuições
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardosanchez08&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 🐍 Minhas contribuições no GitHub
+# 🐍 Minhas Contribuições (Snake)
 <p align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha.svg">
-  <img alt="Cobrinha das contribuições" src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha.svg">
+  <img src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha.svg" width="100%" />
 </picture>
 </p>
 
 ---
 
+# 🔗 Contatos
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eduardosanchez08.eduardosanchez08&left_color=black&right_color=blue&left_text=Visitantes" />
+  <a href="https://www.linkedin.com/in/eduardo-henrique-sanchez-79832b387/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
+  <a href="mailto:eduardodosanjosprimavera@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eduardosanchez08" />
 </p>
 
 <!-- 🌊 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=114&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f0c29,50:302b63,100:24243e" />
 </p>
