@@ -59,13 +59,25 @@
 ---
 
 # 🟡 Pac-Man das Contribuições
+
 <p align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/pacman.svg">
-  <img src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/pacman.svg" width="100%" />
-</picture>
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/pacman-dark.svg"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/pacman.svg"
+    >
+    <img 
+      src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/pacman.svg" 
+      alt="Pac-Man das Contribuições" 
+      width="100%"
+    />
+  </picture>
 </p>
+
 
 
 ---
