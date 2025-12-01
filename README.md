@@ -10,37 +10,40 @@
 
 ---
 
-###  👨🏼‍💻 Sobre mim
+### 👨🏼‍💻 Sobre mim
 <p align="left">
 🚀 Desenvolvedor em Java.<br>
 💻 Explorando lógica, código limpo e boas práticas.<br>
 🌱 Iniciante em Java | Aprendendo passo a passo e registrando minha jornada.<br>
 🔧 Aprendiz de Programação | Projetos e exercícios em Java.<br>
-✉️ Você pode entrar em contato comigo em: <b>eduardodosanjosprimavera@gmail.com</b>
+✉️ Contato: <b>eduardodosanjosprimavera@gmail.com</b>
 </p>
 
 ---
 
 ### 💻 Linguagens
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
 </p>
 
 ---
 
 ### ⚙️ Ferramentas
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
 </p>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardosanchez08&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true" height="150" alt="languages graph" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardosanchez08&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-br&hide_border=true" height="150" alt="stats graph" /><br>
-  <img src="https://streak-stats.demolab.com?user=eduardosanchez08&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph" /><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardosanchez08&radius=16&theme=one-dark&area=true&hide_border=true&hide_title=true" height="300" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardosanchez08&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true" height="150" /><br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardosanchez08&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-br&hide_border=true" height="150" /><br><br>
+
+  <img src="https://streak-stats.demolab.com?user=eduardosanchez08&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" /><br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardosanchez08&radius=16&theme=one-dark&area=true&hide_border=true&hide_title=true" height="300" />
 </p>
 
 ---
@@ -48,13 +51,13 @@
 ### 🔗 Contatos
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardo-henrique-sanchez-79832b387/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
   </a>
   <a href="https://www.instagram.com/_real_sanchez_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
   </a>
   <a href="mailto:eduardodosanjosprimavera@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
   </a>
 </p>
 
@@ -79,3 +82,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=114&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=gradient" />
 </p>
+
