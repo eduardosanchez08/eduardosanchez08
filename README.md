@@ -13,7 +13,7 @@
 ## 👨🏼‍💻 Sobre mim
 <p align="left">
 🚀 Desenvolvedor Java.<br>
-💡 Estudando diariamente lógica, OOP, boas práticas e arquitetura.<br>
+💡 Estudando diariamente lógica, POO, boas práticas e arquitetura.<br>
 🌱 Iniciante com foco em evolução constante.<br>
 🔧 Criando projetos, desafios e registrando minha jornada na programação.<br>
 📩 Contato: <b>eduardodosanjosprimavera@gmail.com</b>
