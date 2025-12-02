@@ -25,7 +25,7 @@
 <div align="center">
 
 ## 🟦 **Java & Backend**
-<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git," />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,git," />
 
 ## 🟩 **Frontend**
 <img src="https://skillicons.dev/icons?i=html,js," />
