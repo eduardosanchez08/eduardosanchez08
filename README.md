@@ -25,7 +25,7 @@
 <div align="center">
 
 ## 🟦 **Java & Backend**
-<img src="https://skillicons.dev/icons?i=java,spring,maven,git," />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,git," />
 
 ## 🟩 **Frontend**
 <img src="https://skillicons.dev/icons?i=html,js," />
@@ -58,15 +58,14 @@
 
 ---
 
-### 🐍 Minhas contribuições no GitHub
+# 🐍 Minhas Contribuições (Snake)
 <p align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha.svg">
-  <img alt="Cobrinha das contribuições" src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha.svg">
+  <img src="https://raw.githubusercontent.com/eduardosanchez08/eduardosanchez08/output/cobrinha.svg" width="100%" />
 </picture>
 </p>
-
 
 ---
 
