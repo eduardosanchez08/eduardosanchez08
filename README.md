@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=java,spring,maven,git," />
 
 ## 🟩 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,js," />
+<img src="https://skillicons.dev/icons?i=html,js,css,php" />
 
 ## ⚙ Ferramentas
 <img src="https://skillicons.dev/icons?i=idea,github,postman,docker" />
