@@ -75,8 +75,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-henrique-sanchez-79832b387/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
   <a href="mailto:eduardodosanjosprimavera@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
-    <a href="https://wa.me/5519993274387?text=Ol%C3%A1%2C%20vim%20pelo%20seu%20portf%C3%B3lio%21" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="48" />
 </p>
 
 ---
