@@ -75,8 +75,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-henrique-sanchez-79832b387/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
   <a href="mailto:eduardodosanjosprimavera@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
-[![WhatsApp](https://img.shields.io/badge/WhatsApp--25D366?logo=whatsapp&logoColor=white&style=flat)](https://wa.me/19993274387?text=Ol%C3%A1%2C%20vamos%20conversar%3F)
-
 </p>
 
 ---
