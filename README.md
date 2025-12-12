@@ -25,10 +25,10 @@
 <div align="center">
 
 ## 🟦 **Java & Backend**
-<img src="https://skillicons.dev/icons?i=java,spring,maven,git," />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,git,postgresql" />
 
 ## 🟩 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,js,css,php" />
+<img src="https://skillicons.dev/icons?i=html,js,css,php,angular,react,typescript" />
 
 ## ⚙ Ferramentas
 <img src="https://skillicons.dev/icons?i=idea,github,postman,docker" />
