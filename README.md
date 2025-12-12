@@ -31,7 +31,7 @@
 <img src="https://skillicons.dev/icons?i=html,js,css,php,angular,react,typescript" />
 
 ## ⚙ Ferramentas
-<img src="https://skillicons.dev/icons?i=idea,github,postman,docker" />
+<img src="https://skillicons.dev/icons?i=idea,github,postman,docker,swagger" />
 
 </div>
 
