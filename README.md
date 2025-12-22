@@ -5,7 +5,7 @@
 
 <!-- 👋 INTRODUÇÃO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Eduardo!;Desenvolvedor+Java.;Apaixonado+por+tecnologia.;Bem-vindo+ao+meu+perfil!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm +Eduardo!;Java+Developer;Passionate+about+technology.;Welcome+to+my+profile!+🚀" />
 </h1>
 
 ---
